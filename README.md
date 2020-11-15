@@ -2,7 +2,7 @@
 
 ## Introduction ##
 
-This is the project developed for second year project for the courses EE251-Principles of Electrical Measurements and EE254-Electronic Instrumentation. A device was developed to map colors to sound for blind people.
+This is the project developed for second year project for the courses EE251-Principles of Electrical Measurements and EE254-Electronic Instrumentation. A device was developed to map colors to sound for visually impaired people.
 
 **Group Members:** [Sanjaya Herath](https://sanjayaherath.github.io/), Madri Madawala, and Ishara Madushan.
 
